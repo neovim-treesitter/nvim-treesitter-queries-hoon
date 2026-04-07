@@ -1,8 +1,7 @@
 {
-  "min_version": null,
-  "max_version": null,
   "location": null,
   "lang": "hoon",
   "url": "https://github.com/urbit-pilled/tree-sitter-hoon",
-  "semver": false
+  "semver": false,
+  "parser_version": "1545137aadcc63660c47db9ad98d02fa602655d0"
 }
