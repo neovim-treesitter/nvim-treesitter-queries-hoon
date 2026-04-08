@@ -1,6 +1,6 @@
 {
+  "lang": "hoon",
   "url": "https://github.com/urbit-pilled/tree-sitter-hoon",
   "semver": false,
-  "parser_version": "1545137aadcc63660c47db9ad98d02fa602655d0",
-  "lang": "hoon"
+  "parser_version": "1545137aadcc63660c47db9ad98d02fa602655d0"
 }
